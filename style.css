@@ -12,7 +12,7 @@ body{
 .card{
     width: 90%;
     max-width: 470px;
-    background-color: #59dbd0;
+    background: transparent;
     color: #fff;
     margin: 100px auto 0;
     border-radius: 20px;
